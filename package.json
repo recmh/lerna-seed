@@ -1,5 +1,6 @@
 {
   "name": "lerna-seed",
+  "private": true,
   "version": "1.0.0",
   "description": "种子项目",
   "main": "index.js",
@@ -11,8 +12,8 @@
     "url": "git+https://github.com/recmh/lerna-seed.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "fafer zhoucheng502@sina.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/recmh/lerna-seed/issues"
   },
