@@ -1,6 +1,5 @@
 {
   "name": "@seed/server",
-  "private": true,
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "fafer <zhoucheng502@sina.com>",
