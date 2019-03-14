@@ -1,6 +1,6 @@
 {
   "name": "@seed/server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "fafer <zhoucheng502@sina.com>",
   "homepage": "https://github.com/recmh/lerna-seed/tree/master/packages/seed-server#readme",
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "bugs": {
     "url": "https://github.com/recmh/lerna-seed/issues"
