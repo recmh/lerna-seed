@@ -1,6 +1,7 @@
 {
   "name": "@seed/server",
-  "version": "1.0.1",
+  "private": true,
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "fafer <zhoucheng502@sina.com>",
   "homepage": "https://github.com/recmh/lerna-seed/tree/master/packages/seed-server#readme",
@@ -28,5 +29,5 @@
     "express": "^4.13.1",
     "log4js": "^0.6.26"
   },
-  "gitHead": "3a74b1de49f05d47563adb25a4a40e4f4913253d"
+  "gitHead": "e15524ddf1a11feabfae98a7fb03af90a277db5a"
 }
