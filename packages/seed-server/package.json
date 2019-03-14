@@ -1,0 +1,31 @@
+{
+  "name": "@seed/server",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "fafer <zhoucheng502@sina.com>",
+  "homepage": "https://github.com/recmh/lerna-seed/tree/master/packages/seed-server#readme",
+  "license": "MIT",
+  "main": "app.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recmh/lerna-seed/tree/master/packages/seed-server"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start":"node app.js"
+  },
+  "bugs": {
+    "url": "https://github.com/recmh/lerna-seed/issues"
+  },
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "log4js": "^0.6.26"
+  }
+}

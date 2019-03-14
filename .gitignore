@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+package-lock.json
+dist
+*~
+.DS_Store
+.project
+.idea
+.vscode
+.vagrant
+coverage/*
+lerna-debug.log
+/packages/*/node_modules
+/packages/*/LICENSE
+*.log
+*.cache
+logs
