@@ -15,5 +15,6 @@
   },
   "dependencies": {
     "log4js": "^0.6.26"
-  }
+  },
+  "gitHead": "58542c0a2f95a6c9dd632f84af7f4d8fb980b5f1"
 }
