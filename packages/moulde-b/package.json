@@ -1,0 +1,19 @@
+{
+  "name": "@lerna-seed/moudle-b",
+  "version": "1.0.0",
+  "description": "module-b",
+  "author": "fafer <zhoucheng502@sina.com>",
+  "homepage": "https://github.com/recmh/lerna-seed/tree/master/packages/moulde-b#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/recmh/lerna-seed/tree/master/packages/moulde-b"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@lerna-seed/moudle-a": "^1.0.0"
+  }
+}

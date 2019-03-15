@@ -1,0 +1,19 @@
+{
+  "name": "@lerna-seed/moudle-a",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "fafer <zhoucheng502@sina.com>",
+  "homepage": "https://github.com/recmh/lerna-seed/tree/master/packages/moudle-a#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/recmh/lerna-seed/tree/master/packages/moudle-a"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "log4js": "^0.6.26"
+  }
+}
